@@ -1,0 +1,13 @@
+# Canny
+LOW_THRESHOLD = 50
+HIGH_THRESHOLD = 150
+
+# Gaussian blur
+KERNEL_SIZE = 5
+
+# Hough Transform
+RHO = 2
+THETA = 3.14/180
+THRESHOLD = 100
+MIN_LINE_LENGTH = 40
+MAX_LINE_GAP = 50
